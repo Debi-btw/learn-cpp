@@ -1,7 +1,7 @@
-# 🚀 Learn C++ Together
+# 🚀 Learn C++ and git
 
 Welcome to **Learn C++ Together**!
-This repository is an **open, beginner-friendly space** for learning and practicing **C++** through examples, exercises, and community contributions.
+This repository is an **open, beginner-friendly space** for learning and practicing **C++** and **git** through examples, exercises, and community contributions.
 
 Whether you're just starting or brushing up your skills, **everyone is welcome** to learn and contribute 💙
 
