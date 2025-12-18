@@ -12,7 +12,6 @@ Whether you're just starting or brushing up your skills, **everyone is welcome**
 ```
 📦 learn-cpp
  ┣ 📁 basics
- ┣ 📁 control-structures
  ┣ 📁 functions
  ┣ 📁 oop
  ┣ 📁 data-structures
